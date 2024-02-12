@@ -1,0 +1,14 @@
+4
+S' S A B
+
+2
+a b
+
+5
+S' -> S
+S -> A a A b
+S -> B b B a
+A -> ε
+B -> ε
+
+S'
